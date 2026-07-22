@@ -1,10 +1,10 @@
-\# AMR Mortality Burden by WHO Region
+\# WHO GLASS Pathogen Resistance Analysis
 
 
 
 \## Project Overview
 
-This project analyzes the mortality burden of antimicrobial resistance (AMR) across WHO regions using Microsoft Excel.
+This project analyzes antimicrobial resistance among the WHO GLASS priority pathogens using Microsoft Excel. The analysis summarizes the average global resistance levels for key bacterial pathogens and presents the results using PivotTables and charts.
 
 
 
@@ -14,7 +14,7 @@ This project analyzes the mortality burden of antimicrobial resistance (AMR) acr
 
 \- PivotTables
 
-\- Charts
+\- Column Charts
 
 \- GitHub
 
@@ -22,9 +22,9 @@ This project analyzes the mortality burden of antimicrobial resistance (AMR) acr
 
 \## Key Analysis
 
-\- Regional comparison of AMR-attributable deaths
+\- Average global resistance by pathogen
 
-\- PivotTable analysis
+\- Comparison of WHO GLASS priority pathogens
 
 \- Dashboard visualization
 
@@ -32,7 +32,7 @@ This project analyzes the mortality burden of antimicrobial resistance (AMR) acr
 
 \## Dataset
 
-AMR Mortality Burden by Region (Kaggle)
+WHO GLASS Priority Pathogens Dataset
 
 
 
